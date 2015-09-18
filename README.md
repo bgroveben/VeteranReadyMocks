@@ -1,3 +1,3 @@
 Balsamiq mockups for VeteranReady site. 
 
-So far, I have Home, Header, Services, Resources, Mentorship, Community, Events, Social, About, and Contact pages in the project. I may break them up into smaller projects if the file size becomes too large.
+I have included all of the pages Annie requested in her email. Now I need to refine the pages so that they contain all of the information she specified.
